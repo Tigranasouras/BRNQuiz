@@ -39,6 +39,7 @@ public class QuizActivity extends AppCompatActivity {
 }
 
 
+//I made a project messing around with this feature so thank god for that
 //Task Q feature = “Answer by Voice” with microphone permission.
 //Lets the user speak an answer, auto-selects the matching choice, and enables Submit.
 //Manifest: RECORD_AUDIO permission in manifest
